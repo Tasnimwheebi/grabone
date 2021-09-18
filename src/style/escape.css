@@ -1,0 +1,18 @@
+
+.imgfrh4:hover::after,.imgfrh5:hover::after ,.imgfrh6:hover::after ,.imgfrh7:hover::after  {
+    content: "One-Night Midweek Kiwi Spotting Tour & Stay for Two People on Kapiti Island incl. Ferry Transport, Introductory Talk, DOC Permits, Dinner, Breakfast & Lunch - Three Options Available";
+    color: #ffffff;
+    position: absolute;
+    text-align: center;
+    line-height: 26%;
+    margin-left: 100px;
+    margin-top: 100px;
+    font-weight: bold;
+}
+.imgfrh4:hover::before,.imgfrh5:hover::before,.imgfrh6:hover::before,.imgfrh7:hover::before{
+      content: "";
+      background: rgba(7, 193, 218, 0.883);
+      width: 100%;
+      height: 70%;
+      position: absolute;
+}
